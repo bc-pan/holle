@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">回收称重支付系统</string>
+    <string name="sinin">请输入登入名</string>
+    <string name="sinpas">请输入密码</string>
+    <string name="appver">1.0.0bate</string>
+    <string name="sinbut">登入</string>
+    <string name="logo" />
+    <string name="textview">姓名</string>
+    <string name="button">退出登入</string>
+    <string name="textViewcard">卡号</string>
+    <string name="textviewdisplay">100</string>
+    <string name="textviewone">毛重</string>
+    <string name="textviewtwo">皮重</string>
+    <string name="textviewgross">净重</string>
+    <string name="textviewCategory">品类</string>
+    <string name="textviewNoun">单价</string>
+    <string name="textviewSettlement">本次金额</string>
+    <string name="checkbox">1类</string>
+    <string name="checkbox2">2类</string>
+    <string name="checkbox3">3类</string>
+    <string name="button3">查询历史交易</string>
+    <string name="button4">累加金额</string>
+    <string name="button5">确认交易</string>
+    <string name="textview9">累计金额</string>
+</resources>
